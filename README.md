@@ -1,18 +1,12 @@
 Hi, I'm Arpita Pandey! 👋
 
 🚀 Aspiring Software Developer | Machine Learning | Web Development
-
-💡 Passionate about coding and solving real-world problems with technology.
-
-🌱 Currently learning advanced Machine Learning & Cloud Computing.
-
-🔍 Looking for opportunities in Software Development & AI Research.
-
+💡 Passionate about coding and solving real-world problems through technology.
+🌱 Currently learning Machine Learning & Cloud Computing.
 📫 Reach me at: arpitasp2004@gmail.com
-
-🌐 Portfolio: [Add Your Portfolio Link Here]
-🔗 LinkedIn: linkedin.com/in/arpita-pandey-477171262
-📂 GitHub Repositories: github.com/arpita2005-ui
+📞 Contact: 9369377084
+🔗 LinkedIn: Arpita Pandey
+🔗 GitHub: arpita2005-ui
 
 
 ---
@@ -31,88 +25,59 @@ Database & Tools: MySQL, Git, GitHub, AWS
 
 ---
 
-✨ Featured Projects
+✨ Projects
 
-📌 1. AI Mental Health Chatbot
+📌 AI-Enhanced Mental Health Chatbot
 
-Developed an AI-powered chatbot using NLP & ML algorithms.
+Built a chatbot using SKlearn & Django Framework.
 
-Implemented cosine similarity & TF-IDF vectorizer for intent recognition.
+Implemented NLP Algorithms (cosine similarity, Tf-Idf vectorizer, sentence tokenizer, stopwords removal).
 
-Tech Stack: Python, Flask, TensorFlow, OpenCV
-
-
-📌 2. College ERP System
-
-Created a full-stack web application to automate college management.
-
-Improved efficiency by 40% using smart automation.
-
-Tech Stack: HTML, CSS, JavaScript, MySQL
+Tech Stack: Python, Django, Machine Learning, AI.
 
 
-📌 3. Image Classification with CNNs
+📌 Image Sharpening & Contrast Enhancement
 
-Built a deep learning model for image classification using CNNs.
+Used OpenCV for image sharpening algorithms like Gaussian, Laplacian, and Unsharp Masking.
 
-Achieved 95% accuracy on the CIFAR-10 dataset.
+Applied histogram equalization & adaptive histogram equalization.
 
-Tech Stack: Python, TensorFlow, KerasHi, I'm Arpita Pandey! 👋
-
-🚀 Aspiring Software Developer | Machine Learning | Web Development
-
-💡 Passionate about coding and solving real-world problems with technology.
-
-🌱 Currently learning advanced Machine Learning & Cloud Computing.
-
-🔍 Looking for opportunities in Software Development & AI Research.
-
-📫 Reach me at: arpitasp2004@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/arpita-pandey-477171262
-📂 GitHub Repositories: github.com/arpita2005-ui
+Tech Stack: Python, OpenCV.
 
 
----
+📌 Personal Portfolio Website
 
-🛠 Tech Stack & Skills
+Developed a personal portfolio website showcasing skills & projects.
 
-Programming Languages: Python, C, C++
+Used Roboflow & COCOn dataset.
 
-Machine Learning: OpenCV, TensorFlow, Scikit-Learn
+Tech Stack: HTML, CSS, JavaScript.
 
-Web Development: HTML, CSS, JavaScript, Bootstrap
 
-Database & Tools: MySQL, Git, GitHub, AWS
+📌 College ERP System
+
+Created a full-stack web application for college management.
+
+Improved data accessibility and operational efficiency.
+
+Tech Stack: HTML, CSS, JavaScript, MySQL.
 
 
 
 ---
 
-✨ Featured Projects
+💼 Experience
 
-📌 1. AI Mental Health Chatbot
+Shape My Skill (Internship - Summer Training)
 
-Developed an AI-powered chatbot using NLP & ML algorithms.
+Gained expertise in Python, OpenCV, and Machine Learning.
 
-Implemented cosine similarity & TF-IDF vectorizer for intent recognition.
-
-Tech Stack: Python, Flask, TensorFlow, OpenCV
+Learned AWS deployment & scalability.
 
 
-📌 2. College ERP System
+SK Learning Bootcamp - Machine Learning using Python
 
-Created a full-stack web application to automate college management.
+Hands-on experience in data preprocessing, model building, and evaluation.
 
-Improved efficiency by 40% using smart automation.
+Worked with TensorFlow, Scikit-Learn, and Data 
 
-Tech Stack: HTML, CSS, JavaScript, MySQL
-
-
-📌 3. Image Classification with CNNs
-
-Built a deep learning model for image classification using CNNs.
-
-Achieved 95% accuracy on the CIFAR-10 dataset.
-
-Tech Stack: Python, TensorFlow, Keras
